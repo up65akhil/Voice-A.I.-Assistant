@@ -1,0 +1,21 @@
+Copyright (c) 2026 up65akhil
+
+TERMS OF USE AND LICENSE AGREEMENT
+
+By downloading, accessing, or using this software ("Nexus AI") and its associated source code or executable (.exe) files, you agree to the following terms:
+
+1. PERMISSIONS
+You are granted a non-exclusive, non-transferable license to download, view, and modify the source code strictly for personal, educational, and non-commercial purposes. You may run the application on your personal local machine.
+
+2. RESTRICTIONS
+- Commercial Use: You may NOT use this software, its executable, or any modified versions of its source code for any commercial, enterprise, or revenue-generating purposes.
+- Distribution: You may NOT redistribute, republish, or host this software (or derivative works) on any other platform, repository, or storefront without explicit prior written permission from the copyright holder.
+- Claim of Ownership: You may NOT remove or alter this copyright notice, nor may you claim this software as your own work.
+
+3. API AND THIRD-PARTY USAGE
+This software interacts with third-party services (including, but not limited to, Google Gemini AI and web browsers). The user is solely responsible for providing their own API keys where applicable and adhering to the Terms of Service of those respective third-party platforms. The author is not responsible for any API usage limits, bans, or charges incurred by the user.
+
+4. DISCLAIMER OF WARRANTY AND LIABILITY
+THIS SOFTWARE AND ITS EXECUTABLE FILES ARE PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. 
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
